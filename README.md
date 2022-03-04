@@ -1,4 +1,4 @@
-# mutli producer-consumer problem
+# Mutli producer-consumer problem
 ## Multi producer-consumer problem in Linux-based Operating System
 ```
 COMPILATION: gcc fileName.c -o fileName -pthread
